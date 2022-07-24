@@ -1,4 +1,4 @@
-package one.digitalinnovation.beerstock.utils;
+package one.digitalinnovation.beerstock.service.utils;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
